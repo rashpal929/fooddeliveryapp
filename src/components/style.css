@@ -1,0 +1,14 @@
+.btn-red{ background:red; border:0; border-radius:5px; color:#fff; padding:.4rem 2rem;}
+.upperData h4{ font-size:20px; }
+.upperData span{ background-color: rgb(36,150,63); border-radius: 6px; color: #fff; text-align: center; font-size: 13px;
+font-weight: 600; padding: 2px 1px; width: 45px; }
+.lowerData h5{ font-size:.85rem; color:hsla(0,0%,7%,.425); }
+.lowerData span{ font-size:.85rem; color:hsla(0,0%,7%,.425); }
+.card{ border:0; cursor:pointer; }
+.card:hover{ box-shadow: 0 0 10px 2px rgba(0, 0, 0, .1); transition: .2s; }
+.imageCard{ border-radius: 16px; height: 16rem; margin-top: 10px; }
+.last_data .limg { width: 18px; }
+.last_data .laimg { width: 45px; }
+.last_data p { color: hsla(0, 0%, 7%, .425); font-size: 14px; letter-spacing: .2px; margin-top: 18px; }
+.extra { border-bottom: 1px solid hsla(0, 0%, 7%, .219); }
+.rating{ border:1px solid #212121; border-radius:20px; font-size:1rem; padding:.75rem 1.25rem; cursor:pointer;}
