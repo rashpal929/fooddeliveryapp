@@ -7,6 +7,7 @@ const Fooddata = [
         address: "North Indian, Biryani, Mughlai",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: " 1175 + order placed from here recently",
+        priceNumeric: "350",
         price: "₹350 for two",
         rating: "3.8",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp"
@@ -19,6 +20,7 @@ const Fooddata = [
         address: "Street Food",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: " 2525 + order placed from here recently",
+        priceNumeric: "255",
         price: "₹255 for two",
         rating: "3.9",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp"
@@ -31,6 +33,7 @@ const Fooddata = [
         address: "Pizza, Fast Food, Pasta",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: " 650 + order placed from here recently",
+        priceNumeric: "700",
         price: "₹700 for two",
         rating: "4.2",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp"
@@ -43,6 +46,7 @@ const Fooddata = [
         address: "Momos",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: " 300 + order placed from here recently",
+        priceNumeric: "430",
         price: "₹430 for two",
         rating: "3.8",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp"
@@ -55,6 +59,7 @@ const Fooddata = [
         address: "North Indian",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "1050 + order placed from here recently",
+        priceNumeric: "270",
         price: "₹270 for two",
         rating: "4.0",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp"
@@ -67,6 +72,7 @@ const Fooddata = [
         address: "Wraps FastFood, Chines",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: " 1100 + order placed from here recently",
+        priceNumeric: "400",
         price: "₹400 for two",
         rating: "3.8",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp"
@@ -79,6 +85,7 @@ const Fooddata = [
         address: "North Indian, Fast Food",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "500 + order placed from here recently",
+        priceNumeric: "370",
         price: "₹370 for two",
         rating: "3.8",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp"
@@ -91,6 +98,7 @@ const Fooddata = [
         address: "Tea, Coffee, Shake, Beverages",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "500 + order placed from here recently",
+        priceNumeric: "310",
         price: "₹310 for two",
         rating: "3.2",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp"
@@ -103,6 +111,7 @@ const Fooddata = [
         address: "Burger, Sandwich, Fast Food",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: "2525 + order placed from here recently",
+        priceNumeric: "269",
         price: "₹269 for two",
         rating: "3.8",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp"

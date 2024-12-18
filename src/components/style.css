@@ -11,4 +11,9 @@ font-weight: 600; padding: 2px 1px; width: 45px; }
 .last_data .laimg { width: 45px; }
 .last_data p { color: hsla(0, 0%, 7%, .425); font-size: 14px; letter-spacing: .2px; margin-top: 18px; }
 .extra { border-bottom: 1px solid hsla(0, 0%, 7%, .219); }
-.rating{ border:1px solid #212121; border-radius:20px; font-size:1rem; padding:.75rem 1.25rem; cursor:pointer;}
+.rating{ background:none; font-size:15px; border:1px solid rgb(207, 207, 207); color:rgb(156, 156, 156); border-radius:12px; padding:.35rem 1.25rem; cursor:pointer;}
+.searchFilters{ gap:10px; }
+@media screen and (min-width:991px){
+    .filterSelect{ min-width:300px; }
+}
+.filterSelect select{ color:rgb(156, 156, 156); }
